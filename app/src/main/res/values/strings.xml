@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Online-Psychologist</string>
+    <string name="firstName">Прізвище</string>
+    <string name="name">Ім`я</string>
+    <string name="openAsPsychologist">Увійти як психолог</string>
+    <string name="men">Чоловік</string>
+    <string name="women">Жінка</string>
+    <string name="messages">Повідомлення</string>
+
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+
+    <string name="error_firstName">В вас не заповнене поле прізвище!</string>
+    <string name="error_lastName">В вас не заповнене поле ім`я!</string>
+    <string name="error_sex">Ви не вибрали стать!</string>
+
+    <string name="users_who_want_to_communicate">Користувачі які хочуть спілкуватися:</string>
+    <string name="log_out">Вийти з облікового запису</string>
+    <string name="log_out_enable">Ви дійсно хочете вийти з облікового запису?</string>
+
+    <string name="go_to_communicate">Розпочати розмову</string>
+    <string name="con_started">Ви хочете розпочати розмову з даною особою?</string>
+
+    <string name="text_message_is_empty">Ви не заповнили поле для повідомлення!</string>
+
+    <string name="delete_chat">Видалити чат</string>
+    <string name="you_want_delete_chat">Ви дійсно хочете видалити чат, та закінчити розмову?</string>
+
+    <string name="clear_chat">Очистити історію чату</string>
+    <string name="you_want_clear_chat">Ви дійсно хочете очистити історію чату?</string>
+
+    <string name="dev_name">Уляна Малярчук</string>
+    <string name="dev_descriptions">Зв`язатися з розробником можна тут!</string>
+    <string name="russian_fack_you">Русский военный корабль іді на х*й! Слава Україні! - Героям Слава! Слава Націй! - Смерть Ворогам!</string>
+
+    <string name="instagram_url">https://www.instagram.com/_liana_19th_/</string>
+    <string name="facebook_url">https://www.facebook.com/profile.php?id=100036418025718</string>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1005924668571",
+    "firebase_url": "https://onlinepsychologist-80165-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "onlinepsychologist-80165",
+    "storage_bucket": "onlinepsychologist-80165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005924668571:android:c24b23db3530922429623e",
+        "android_client_info": {
+          "package_name": "com.example.online_psychologist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005924668571-t7jrfqa8gqlarvp1lgp3jt187sql70ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfw6mK3vhsIASpzijcq1zXwdmgGriRi3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005924668571-t7jrfqa8gqlarvp1lgp3jt187sql70ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
