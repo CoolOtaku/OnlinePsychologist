@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/MessageContainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="right"
+    android:orientation="vertical">
+
+    <com.daasuu.bl.BubbleLayout
+        android:id="@+id/MessageBubble"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:padding="8dp"
+        app:bl_arrowDirection="right"
+        app:bl_arrowHeight="8dp"
+        app:bl_arrowPosition="15dp"
+        app:bl_arrowWidth="8dp"
+        app:bl_cornersRadius="8dp"
+        app:bl_bubbleColor="@color/blue2">
+
+        <TextView
+            android:id="@+id/DataMessageText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="4dp"
+            android:layout_marginBottom="4dp"
+            android:text="Text"
+            android:textColor="@color/text_color_1"
+            android:textSize="16sp"
+            android:textIsSelectable="true"/>
+
+    </com.daasuu.bl.BubbleLayout>
+
+    <TextView
+        android:id="@+id/DateMessageText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="4dp"
+        android:layout_marginBottom="4dp"
+        android:text="Date"
+        android:textColor="@color/text_color_1"
+        android:textSize="10sp" />
+
+</LinearLayout>
