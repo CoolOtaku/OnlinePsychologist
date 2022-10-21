@@ -16,11 +16,11 @@ public class App extends Application {
     public static SharedPreferences sp;
     public static int SIGN_IN_CODE = 1;
 
-    public static final String BOT_TOKEN = "5117210479:AAHOQDCyBEin8Q8O6J1kB7XjGvsTnkbChck";
+    public static final String BOT_TOKEN = "[TELEGRAM_BOT_TOKEN]";
     public static final String TELEGRAM_BOT_URL = "https://api.telegram.org/bot"+BOT_TOKEN+"/";
     public static final String TELEGRAM_FILE_URL = "https://api.telegram.org/file/bot"+BOT_TOKEN+"/";
 
-    public static String DB_URL = "https://onlinepsychologist-80165-default-rtdb.europe-west1.firebasedatabase.app";
+    public static String DB_URL = "[FIREBASE_DATA_BASE_URL]";
     public static String TOKENS = "AndroidTokens";
     public static String CHATS = "chats";
     public static String COMMUNICATE = "communicate";
